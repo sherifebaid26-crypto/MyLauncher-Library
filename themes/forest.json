@@ -1,0 +1,14 @@
+{
+  "id": "lib_forest",
+  "name": "Forest",
+  "dark": true,
+  "bg": "#FF08200F",
+  "surface": "#FF12361F",
+  "text": "#FFEAF7EC",
+  "subText": "#FF93B59B",
+  "accent": "#FF4FD07F",
+  "radiusDp": 18,
+  "iconShape": "rounded",
+  "iconScale": 100,
+  "iconPack": ""
+}

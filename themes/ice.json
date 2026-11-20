@@ -1,0 +1,14 @@
+{
+  "id": "lib_ice",
+  "name": "Ice",
+  "dark": false,
+  "bg": "#FFEAF6FF",
+  "surface": "#FFFFFFFF",
+  "text": "#FF10263A",
+  "subText": "#FF5C7A92",
+  "accent": "#FF2A8FDB",
+  "radiusDp": 22,
+  "iconShape": "circle",
+  "iconScale": 100,
+  "iconPack": ""
+}

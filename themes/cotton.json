@@ -1,0 +1,14 @@
+{
+  "id": "lib_cotton",
+  "name": "Cotton Candy",
+  "dark": false,
+  "bg": "#FFFFE9F4",
+  "surface": "#FFFFFFFF",
+  "text": "#FF3A1F36",
+  "subText": "#FF8A6A85",
+  "accent": "#FFE85AA8",
+  "radiusDp": 28,
+  "iconShape": "circle",
+  "iconScale": 100,
+  "iconPack": ""
+}

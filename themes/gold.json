@@ -1,0 +1,14 @@
+{
+  "id": "lib_gold",
+  "name": "Midnight Gold",
+  "dark": true,
+  "bg": "#FF080B14",
+  "surface": "#FF161D2E",
+  "text": "#FFFBF3DC",
+  "subText": "#FFB5AA88",
+  "accent": "#FFE6C46A",
+  "radiusDp": 18,
+  "iconShape": "squircle",
+  "iconScale": 100,
+  "iconPack": ""
+}

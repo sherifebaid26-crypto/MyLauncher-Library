@@ -1,0 +1,14 @@
+{
+  "id": "lib_mono",
+  "name": "Mono Dark",
+  "dark": true,
+  "bg": "#FF080808",
+  "surface": "#FF181818",
+  "text": "#FFF2F2F2",
+  "subText": "#FF9A9A9A",
+  "accent": "#FFFFFFFF",
+  "radiusDp": 14,
+  "iconShape": "squircle",
+  "iconScale": 100,
+  "iconPack": ""
+}

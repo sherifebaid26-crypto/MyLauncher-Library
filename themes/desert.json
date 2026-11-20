@@ -1,0 +1,14 @@
+{
+  "id": "lib_desert",
+  "name": "Desert",
+  "dark": true,
+  "bg": "#FF2A1608",
+  "surface": "#FF442612",
+  "text": "#FFFFF4E0",
+  "subText": "#FFCDAE88",
+  "accent": "#FFF0A24A",
+  "radiusDp": 16,
+  "iconShape": "rounded",
+  "iconScale": 100,
+  "iconPack": ""
+}

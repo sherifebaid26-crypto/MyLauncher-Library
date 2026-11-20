@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "id": "lib_aurora",
+      "name": "Aurora",
+      "name_ar": "أورورا",
+      "file": "themes/aurora.json",
+      "wallpaper": "wallpapers/wp_aurora.jpg",
+      "preview": "thumbs/wp_aurora.jpg",
+      "colors": {
+        "bg": "#FF0B1026",
+        "surface": "#FF1A2244",
+        "text": "#FFF2F6FF",
+        "accent": "#FF2BD9A0"
+      }
+    },
+    {
+      "id": "lib_ocean",
+      "name": "Ocean",
+      "name_ar": "المحيط",
+      "file": "themes/ocean.json",
+      "wallpaper": "wallpapers/wp_ocean.jpg",
+      "preview": "thumbs/wp_ocean.jpg",
+      "colors": {
+        "bg": "#FF04243D",
+        "surface": "#FF0B3A5C",
+        "text": "#FFEAF8FF",
+        "accent": "#FF19C3E6"
+      }
+    },
+    {
+      "id": "lib_sunset",
+      "name": "Sunset Glow",
+      "name_ar": "وهج الغروب",
+      "file": "themes/sunset.json",
+      "wallpaper": "wallpapers/wp_sunset.jpg",
+      "preview": "thumbs/wp_sunset.jpg",
+      "colors": {
+        "bg": "#FF2B0F3A",
+        "surface": "#FF451A54",
+        "text": "#FFFFF3E8",
+        "accent": "#FFFF8A50"
+      }
+    },
+    {
+      "id": "lib_forest",
+      "name": "Forest",
+      "name_ar": "الغابة",
+      "file": "themes/forest.json",
+      "wallpaper": "wallpapers/wp_forest.jpg",
+      "preview": "thumbs/wp_forest.jpg",
+      "colors": {
+        "bg": "#FF08200F",
+        "surface": "#FF12361F",
+        "text": "#FFEAF7EC",
+        "accent": "#FF4FD07F"
+      }
+    },
+    {
+      "id": "lib_rose",
+      "name": "Rose Quartz",
+      "name_ar": "روز كوارتز",
+      "file": "themes/rose.json",
+      "wallpaper": "wallpapers/wp_rose.jpg",
+      "preview": "thumbs/wp_rose.jpg",
+      "colors": {
+        "bg": "#FF2A0F1C",
+        "surface": "#FF44192E",
+        "text": "#FFFFEFF4",
+        "accent": "#FFFF7FAE"
+      }
+    },
+    {
+      "id": "lib_violet",
+      "name": "Violet Night",
+      "name_ar": "ليلة بنفسجية",
+      "file": "themes/violet.json",
+      "wallpaper": "wallpapers/wp_violet.jpg",
+      "preview": "thumbs/wp_violet.jpg",
+      "colors": {
+        "bg": "#FF0D0720",
+        "surface": "#FF1F1240",
+        "text": "#FFF3ECFF",
+        "accent": "#FFA06BFF"
+      }
+    },
+    {
+      "id": "lib_desert",
+      "name": "Desert",
+      "name_ar": "الصحراء",
+      "file": "themes/desert.json",
+      "wallpaper": "wallpapers/wp_desert.jpg",
+      "preview": "thumbs/wp_desert.jpg",
+      "colors": {
+        "bg": "#FF2A1608",
+        "surface": "#FF442612",
+        "text": "#FFFFF4E0",
+        "accent": "#FFF0A24A"
+      }
+    },
+    {
+      "id": "lib_ice",
+      "name": "Ice",
+      "name_ar": "الجليد",
+      "file": "themes/ice.json",
+      "wallpaper": "wallpapers/wp_ice.jpg",
+      "preview": "thumbs/wp_ice.jpg",
+      "colors": {
+        "bg": "#FFEAF6FF",
+        "surface": "#FFFFFFFF",
+        "text": "#FF10263A",
+        "accent": "#FF2A8FDB"
+      }
+    },
+    {
+      "id": "lib_cotton",
+      "name": "Cotton Candy",
+      "name_ar": "غزل البنات",
+      "file": "themes/cotton.json",
+      "wallpaper": "wallpapers/wp_cotton.jpg",
+      "preview": "thumbs/wp_cotton.jpg",
+      "colors": {
+        "bg": "#FFFFE9F4",
+        "surface": "#FFFFFFFF",
+        "text": "#FF3A1F36",
+        "accent": "#FFE85AA8"
+      }
+    },
+    {
+      "id": "lib_mono",
+      "name": "Mono Dark",
+      "name_ar": "أسود هادئ",
+      "file": "themes/mono.json",
+      "wallpaper": "wallpapers/wp_mono.jpg",
+      "preview": "thumbs/wp_mono.jpg",
+      "colors": {
+        "bg": "#FF080808",
+        "surface": "#FF181818",
+        "text": "#FFF2F2F2",
+        "accent": "#FFFFFFFF"
+      }
+    },
+    {
+      "id": "lib_mint",
+      "name": "Mint",
+      "name_ar": "نعناع",
+      "file": "themes/mint.json",
+      "wallpaper": "wallpapers/wp_mint.jpg",
+      "preview": "thumbs/wp_mint.jpg",
+      "colors": {
+        "bg": "#FFE8FFF4",
+        "surface": "#FFFFFFFF",
+        "text": "#FF0F2E22",
+        "accent": "#FF1FB874"
+      }
+    },
+    {
+      "id": "lib_gold",
+      "name": "Midnight Gold",
+      "name_ar": "ذهب منتصف الليل",
+      "file": "themes/gold.json",
+      "wallpaper": "wallpapers/wp_gold.jpg",
+      "preview": "thumbs/wp_gold.jpg",
+      "colors": {
+        "bg": "#FF080B14",
+        "surface": "#FF161D2E",
+        "text": "#FFFBF3DC",
+        "accent": "#FFE6C46A"
+      }
+    }
+  ],
+  "wallpapers": [
+    {
+      "id": "neon_waves",
+      "name": "Neon Waves",
+      "name_ar": "موجات نيون",
+      "file": "wallpapers/x_neon_waves.jpg",
+      "thumb": "thumbs/x_neon_waves.jpg",
+      "category": "abstract"
+    },
+    {
+      "id": "blue_mesh",
+      "name": "Blue Mesh",
+      "name_ar": "شبكة زرقاء",
+      "file": "wallpapers/x_blue_mesh.jpg",
+      "thumb": "thumbs/x_blue_mesh.jpg",
+      "category": "abstract"
+    },
+    {
+      "id": "peach",
+      "name": "Peach",
+      "name_ar": "خوخي",
+      "file": "wallpapers/x_peach.jpg",
+      "thumb": "thumbs/x_peach.jpg",
+      "category": "soft"
+    },
+    {
+      "id": "lavender",
+      "name": "Lavender",
+      "name_ar": "لافندر",
+      "file": "wallpapers/x_lavender.jpg",
+      "thumb": "thumbs/x_lavender.jpg",
+      "category": "soft"
+    },
+    {
+      "id": "emerald",
+      "name": "Emerald",
+      "name_ar": "زمردي",
+      "file": "wallpapers/x_emerald.jpg",
+      "thumb": "thumbs/x_emerald.jpg",
+      "category": "nature"
+    },
+    {
+      "id": "fire",
+      "name": "Fire",
+      "name_ar": "نار",
+      "file": "wallpapers/x_fire.jpg",
+      "thumb": "thumbs/x_fire.jpg",
+      "category": "abstract"
+    },
+    {
+      "id": "slate",
+      "name": "Slate",
+      "name_ar": "رمادي مزرق",
+      "file": "wallpapers/x_slate.jpg",
+      "thumb": "thumbs/x_slate.jpg",
+      "category": "minimal"
+    },
+    {
+      "id": "dawn",
+      "name": "Dawn",
+      "name_ar": "فجر",
+      "file": "wallpapers/x_dawn.jpg",
+      "thumb": "thumbs/x_dawn.jpg",
+      "category": "nature"
+    },
+    {
+      "id": "wp_aurora",
+      "name": "Aurora",
+      "name_ar": "أورورا",
+      "file": "wallpapers/wp_aurora.jpg",
+      "thumb": "thumbs/wp_aurora.jpg",
+      "category": "themes"
+    },
+    {
+      "id": "wp_ocean",
+      "name": "Ocean",
+      "name_ar": "المحيط",
+      "file": "wallpapers/wp_ocean.jpg",
+      "thumb": "thumbs/wp_ocean.jpg",
+      "category": "themes"
+    },
+    {
+      "id": "wp_sunset",
+      "name": "Sunset Glow",
+      "name_ar": "وهج الغروب",
+      "file": "wallpapers/wp_sunset.jpg",
+      "thumb": "thumbs/wp_sunset.jpg",
+      "category": "themes"
+    },
+    {
+      "id": "wp_forest",
+      "name": "Forest",
+      "name_ar": "الغابة",
+      "file": "wallpapers/wp_forest.jpg",
+      "thumb": "thumbs/wp_forest.jpg",
+      "category": "themes"
+    },
+    {
+      "id": "wp_rose",
+      "name": "Rose Quartz",
+      "name_ar": "روز كوارتز",
+      "file": "wallpapers/wp_rose.jpg",
+      "thumb": "thumbs/wp_rose.jpg",
+      "category": "themes"
+    },
+    {
+      "id": "wp_violet",
+      "name": "Violet Night",
+      "name_ar": "ليلة بنفسجية",
+      "file": "wallpapers/wp_violet.jpg",
+      "thumb": "thumbs/wp_violet.jpg",
+      "category": "themes"
+    },
+    {
+      "id": "wp_desert",
+      "name": "Desert",
+      "name_ar": "الصحراء",
+      "file": "wallpapers/wp_desert.jpg",
+      "thumb": "thumbs/wp_desert.jpg",
+      "category": "themes"
+    },
+    {
+      "id": "wp_ice",
+      "name": "Ice",
+      "name_ar": "الجليد",
+      "file": "wallpapers/wp_ice.jpg",
+      "thumb": "thumbs/wp_ice.jpg",
+      "category": "themes"
+    },
+    {
+      "id": "wp_cotton",
+      "name": "Cotton Candy",
+      "name_ar": "غزل البنات",
+      "file": "wallpapers/wp_cotton.jpg",
+      "thumb": "thumbs/wp_cotton.jpg",
+      "category": "themes"
+    },
+    {
+      "id": "wp_mono",
+      "name": "Mono Dark",
+      "name_ar": "أسود هادئ",
+      "file": "wallpapers/wp_mono.jpg",
+      "thumb": "thumbs/wp_mono.jpg",
+      "category": "themes"
+    },
+    {
+      "id": "wp_mint",
+      "name": "Mint",
+      "name_ar": "نعناع",
+      "file": "wallpapers/wp_mint.jpg",
+      "thumb": "thumbs/wp_mint.jpg",
+      "category": "themes"
+    },
+    {
+      "id": "wp_gold",
+      "name": "Midnight Gold",
+      "name_ar": "ذهب منتصف الليل",
+      "file": "wallpapers/wp_gold.jpg",
+      "thumb": "thumbs/wp_gold.jpg",
+      "category": "themes"
+    }
+  ]
+}

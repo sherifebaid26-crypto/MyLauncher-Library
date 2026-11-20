@@ -1,0 +1,14 @@
+{
+  "id": "lib_sunset",
+  "name": "Sunset Glow",
+  "dark": true,
+  "bg": "#FF2B0F3A",
+  "surface": "#FF451A54",
+  "text": "#FFFFF3E8",
+  "subText": "#FFD9A9B8",
+  "accent": "#FFFF8A50",
+  "radiusDp": 24,
+  "iconShape": "circle",
+  "iconScale": 100,
+  "iconPack": ""
+}

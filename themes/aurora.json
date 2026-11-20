@@ -1,0 +1,14 @@
+{
+  "id": "lib_aurora",
+  "name": "Aurora",
+  "dark": true,
+  "bg": "#FF0B1026",
+  "surface": "#FF1A2244",
+  "text": "#FFF2F6FF",
+  "subText": "#FF9AA7C7",
+  "accent": "#FF2BD9A0",
+  "radiusDp": 22,
+  "iconShape": "circle",
+  "iconScale": 100,
+  "iconPack": ""
+}

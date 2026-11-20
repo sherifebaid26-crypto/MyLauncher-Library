@@ -1,0 +1,14 @@
+{
+  "id": "lib_rose",
+  "name": "Rose Quartz",
+  "dark": true,
+  "bg": "#FF2A0F1C",
+  "surface": "#FF44192E",
+  "text": "#FFFFEFF4",
+  "subText": "#FFD9A3B6",
+  "accent": "#FFFF7FAE",
+  "radiusDp": 26,
+  "iconShape": "circle",
+  "iconScale": 100,
+  "iconPack": ""
+}

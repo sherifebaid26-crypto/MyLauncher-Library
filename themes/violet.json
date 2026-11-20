@@ -1,0 +1,14 @@
+{
+  "id": "lib_violet",
+  "name": "Violet Night",
+  "dark": true,
+  "bg": "#FF0D0720",
+  "surface": "#FF1F1240",
+  "text": "#FFF3ECFF",
+  "subText": "#FFA99BCF",
+  "accent": "#FFA06BFF",
+  "radiusDp": 22,
+  "iconShape": "squircle",
+  "iconScale": 100,
+  "iconPack": ""
+}

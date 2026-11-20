@@ -1,0 +1,14 @@
+{
+  "id": "lib_mint",
+  "name": "Mint",
+  "dark": false,
+  "bg": "#FFE8FFF4",
+  "surface": "#FFFFFFFF",
+  "text": "#FF0F2E22",
+  "subText": "#FF5F8A76",
+  "accent": "#FF1FB874",
+  "radiusDp": 20,
+  "iconShape": "rounded",
+  "iconScale": 100,
+  "iconPack": ""
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lib_ocean",
+  "name": "Ocean",
+  "dark": true,
+  "bg": "#FF04243D",
+  "surface": "#FF0B3A5C",
+  "text": "#FFEAF8FF",
+  "subText": "#FF8FB9CC",
+  "accent": "#FF19C3E6",
+  "radiusDp": 20,
+  "iconShape": "squircle",
+  "iconScale": 100,
+  "iconPack": ""
+}
